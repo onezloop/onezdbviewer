@@ -51,4 +51,4 @@ Found issues? Report it here - [Issues](https://github.com/onezloop/onezdbviewer
 - Secure SSL/TLS support for database connections
 
 ## Issues
-
+Found issues? Report it here - [Issues](https://github.com/onezloop/onezdbviewer/issues).
