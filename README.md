@@ -45,10 +45,11 @@ docker run -d -p 9977:9977 \
 ```
 
 ## Security
-Found issues? Report it here - [Issues](https://github.com/onezloop/onezdbviewer/issues)
+
 - Connection passwords are encrypted before storage
 - No database credentials are exposed in logs
 - Secure SSL/TLS support for database connections
 
 ## Issues
+
 Found issues? Report it here - [Issues](https://github.com/onezloop/onezdbviewer/issues).
