@@ -1,55 +1,87 @@
-# onezloop/onezdbviewer `BETA`
+# onezDBViewer `BETA` - User Guide
 
-A lightweight and efficient database viewer application for MariaDB/MySQL databases with a modern React-based interface.
+A free database viewer application to connect and manage your MariaDB databases with ease.
 
-## Quick Start
 
-Run the application with Docker:
+<img width="1920" height="873" alt="onezdbviewer_screen" src="https://github.com/user-attachments/assets/1e7eb710-b4bf-4504-b0c6-7b3a31a60bd2" />
 
-```bash
-docker run -d -p 9977:9977 --name onezdbviewer onezloop/onezdbviewer:latest
-```
 
-Open your browser and navigate to: **http://localhost:9977**
+## Introduction
 
-## Features
+onezDBViewer is a lightweight, modern database viewer application designed specifically for MariaDB/MySQL databases. Built with efficiency in mind, it provides a clean interface for database exploration, query execution, and data management without consuming excessive system resources.
 
-- **Lightweight & Memory Efficient**: Minimal resource consumption
-- **Modern UI**: Clean React-based interface with dark/light theme support
-- **Connection Management**: Save and manage multiple database connections with encrypted password storage
-- **SQL Query Execution**: Execute queries with pagination and real-time results
-- **Data Export**: Export query results to CSV format
-- **Cross-platform**: Runs in any modern web browser
+## Installation
 
-## Usage
+### Docker Installation
 
-1. **Connect to Database**: Click "New Connection" and enter your MariaDB/MySQL credentials
-2. **Browse Tables**: Explore databases and tables in the left sidebar
-3. **Execute Queries**: Use the query editor to run SQL commands
-4. **Export Data**: Export results to CSV format
-5. **Manage Connections**: Save frequently used connections for quick access
-
-## Environment Variables
-
-- `PORT`: Server port (default: 9977)
-
-## Volumes
-
-The application stores connection profiles and settings in the container. To persist data:
+onezDBViewer is available as a Docker image for easy deployment:
 
 ```bash
+
+# Run the container with volume for data persistence
 docker run -d -p 9977:9977 \
   -v onezdbviewer-data:/root/.onezdbviewer \
   --name onezdbviewer \
   onezloop/onezdbviewer:latest
 ```
 
-## Security
+After starting the container, access the application at `http://localhost:9977` in your web browser.
 
-- Connection passwords are encrypted before storage
-- No database credentials are exposed in logs
-- Secure SSL/TLS support for database connections
+## Connecting to a Database
 
-## Issues
+### Adding a New Connection
 
-Found issues? Report it here - [Issues](https://github.com/onezloop/onezdbviewer/issues).
+1. **Open Connection Form**: Click the "New Connection" button or the "+" icon in the sidebar
+2. **Enter Connection Details**:
+
+   - **Connection Name**: A friendly name for your connection (e.g., "Production DB")
+   - **Host**: Database server hostname or IP address
+   - **Port**: Database port (default: 3306 for MariaDB/MySQL)
+   - **Username**: Database username
+   - **Password**: Database password (encrypted when saved)
+   - **Database Name**: Initial database to connect to
+
+3. **Save Connection**: Click "Connect" to establish connection and save profile
+
+### Managing Connections
+
+- **Switch Connections**: Click on any saved connection in the sidebar to switch
+- **Edit Connection**: Click the edit icon next to a connection name
+- **Delete Connection**: Click the delete icon and confirm removal
+- **Auto-Connect**: The application automatically reconnects to your last used connection
+
+### Theme Options
+
+- **Light Mode**: Clean, bright interface
+- **Dark Mode**: Easy on the eyes for low-light environments
+- **System Theme**: Automatically matches your operating system preference
+
+## Troubleshooting
+
+### Common Issues
+
+**Connection Failed**:
+
+- Verify host, port, username, and password
+- Check if database server is running
+- Ensure network connectivity to database server
+- Verify database user has proper permissions
+
+## Found Issues?
+
+For issues, feature requests, or bug reports, please visit our GitHub repository:
+
+**Issue Tracker**: [https://github.com/onezloop/onezdbviewer/issues](https://github.com/onezloop/onezdbviewer/issues)
+
+When reporting issues, please include:
+
+- Application version (found in Settings)
+- Operating system and version
+- Database server type and version
+- Steps to reproduce the issue
+- Any error messages displayed
+
+---
+
+Happy database exploring! 🚀
+
