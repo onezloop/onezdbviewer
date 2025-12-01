@@ -1,6 +1,8 @@
 # onezDBViewer `BETA` - User Guide
 
-A free database viewer application to connect and manage your MariaDB databases with ease.
+A completely free database viewer application to connect and manage your MariaDB databases with ease.
+
+> We never collect user data or any kind of telemetry data.
 
 
 <img width="1920" height="873" alt="onezdbviewer_screen" src="https://github.com/user-attachments/assets/1e7eb710-b4bf-4504-b0c6-7b3a31a60bd2" />
