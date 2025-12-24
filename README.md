@@ -242,6 +242,7 @@ docker logs onezdbviewer
 - **GitHub Repository**: https://github.com/onezloop/onezdbviewer
 - **Issue Tracker**: https://github.com/onezloop/onezdbviewer/issues
 - **Docker Hub**: https://hub.docker.com/r/onezloop/onezdbviewer
+- **Discussion Forum**: https://github.com/onezloop/onezdbviewer/discussions
 
 ## 🆘 Need Help?
 
@@ -252,6 +253,7 @@ If you encounter any issues or have questions:
 3. Visit our GitHub issues page - https://github.com/onezloop/onezdbviewer/issues
 4. Ensure you're using the latest version
 5. Create issue on GitHub here - [New Issue](https://github.com/onezloop/onezdbviewer/issues/new)
+6. Ask questions here - https://github.com/onezloop/onezdbviewer/discussions
 
 ---
 
