@@ -29,7 +29,7 @@ If applicable, add screenshots to help explain your problem.
 - OS: [e.g. macOS 14.1, Windows 11]
 - Browser: [e.g. Chrome 120, Firefox 130]
 - App version / Commit SHA: [e.g. v1.2.3 or abc123]
-- Database: [type and version, e.g. MySQL 8.0, SQLite 3.39]
+- Database: [type and version, e.g. MySQL 8.0]
 
 ## Reproduction
 If possible, provide a minimal reproduction (repository link, SQL dump, steps, or a small sample file).
