@@ -4,6 +4,8 @@
 
 <img width="1918" height="872" alt="onezDBViewer1 - Copy" src="https://github.com/user-attachments/assets/1a7cda96-82b2-437b-9c3f-a047105e95bd" />
 
+Refer demo videos here - https://github.com/onezloop/onezdbviewer/blob/main/DEMO.md
+
 ## Why onezdbviewer?
 
 We have used lots of database tools. Many of them felt heavy, not modern enough, or too slow for simple querying and checks. So we built onezdbviewer to be modern, straight to the point, simple to use, and fast.
