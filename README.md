@@ -4,18 +4,17 @@
 
 <img width="1918" height="872" alt="onezDBViewer1 - Copy" src="https://github.com/user-attachments/assets/1a7cda96-82b2-437b-9c3f-a047105e95bd" />
 
-
 ## Why onezdbviewer?
 
 We have used lots of database tools. Many of them felt heavy, not modern enough, or too slow for simple querying and checks. So we built onezdbviewer to be modern, straight to the point, simple to use, and fast.
 
-We give ultimate preference to privacy. Because our users connect to databases that store user data and other sensitive information, we never collect any data from the app – not even telemetry or error reports. Your data stays on your machine only.
+We give ultimate preference to privacy. Because our users connect to databases that store user data and other sensitive information. We never collect any data from the app - not even telemetry or error reports. Your data stays on your machine only.
 
 ## What onezdbviewer is?
 
-It's a simple DB viewer tool that is fast and easy to use. Just connect and query – that's it.
+It's a simple DB viewer tool that is fast and easy to use. Just connect and query - that's it.
 
-Almost all developers use Docker, so we provide onezdbviewer as a Docker image that you can just run and start querying. It is completely free to use.
+Almost all developers use Docker, so we provided onezdbviewer as a Docker image that you can just run and start querying. It is completely free to use.
 
 ## What onezdbviewer is not?
 
@@ -25,9 +24,9 @@ In today's world, AI can write most SQL, and we as developers can review and cor
 
 ## How did we build it?
 
-We leverage AI extensively to build onezdbviewer. We relied on AI to explore and understand many database-level details and edge cases we needed to support.
+We leveraged AI extensively to build onezdbviewer. We relied on AI to explore and understand many database-level details and edge cases we needed to support.
 
-We didn't just vibe-code it – we followed a systematic, AI-driven development approach. If you want to know more about AI-driven development, you can explore the following projects:
+We didn't just vibe-code it. We followed a systematic, AI-driven development approach. If you want to know more about AI-driven development, you can explore the following projects:
 
 - https://openspec.dev/
 - https://github.com/github/spec-kit
@@ -288,4 +287,3 @@ If you encounter any issues or have questions:
 ---
 
 **Happy DB Hacking** 🚀
-
