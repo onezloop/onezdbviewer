@@ -5,6 +5,36 @@
 <img width="1918" height="872" alt="onezDBViewer1 - Copy" src="https://github.com/user-attachments/assets/1a7cda96-82b2-437b-9c3f-a047105e95bd" />
 
 
+## Why onezdbviewer?
+
+We have used lots of database tools. Many of them felt heavy, not modern enough, or too slow for simple querying and checks. So we built onezdbviewer to be modern, straight to the point, simple to use, and fast.
+
+We give ultimate preference to privacy. Because our users connect to databases that store user data and other sensitive information, we never collect any data from the app – not even telemetry or error reports. Your data stays on your machine only.
+
+## What onezdbviewer is?
+
+It's a simple DB viewer tool that is fast and easy to use. Just connect and query – that's it.
+
+Almost all developers use Docker, so we provide onezdbviewer as a Docker image that you can just run and start querying. It is completely free to use.
+
+## What onezdbviewer is not?
+
+onezdbviewer is not a huge SQL script writing tool. We didn't build it for that. While you can still write queries, format them, and use them, we didn't design it for very heavy query authoring workflows.
+
+In today's world, AI can write most SQL, and we as developers can review and correct it as needed. onezdbviewer, at least as of today, is not an open-source project. We are still actively focusing on adding features and refinements that simplify database querying and viewing even more, and we're not yet ready to open source it.
+
+## How did we build it?
+
+We leverage AI extensively to build onezdbviewer. We relied on AI to explore and understand many database-level details and edge cases we needed to support.
+
+We didn't just vibe-code it – we followed a systematic, AI-driven development approach. If you want to know more about AI-driven development, you can explore the following projects:
+
+- https://openspec.dev/
+- https://github.com/github/spec-kit
+- https://github.com/bmad-code-org/BMAD-METHOD
+
+---
+
 ## 🌟 Why Choose OnezDBViewer?
 
 ### 🔒 **Privacy First**
@@ -258,3 +288,4 @@ If you encounter any issues or have questions:
 ---
 
 **Happy DB Hacking** 🚀
+
