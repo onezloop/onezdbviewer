@@ -2,7 +2,7 @@
 
 **OnezDBViewer** is a lightweight, privacy-focused database viewer designed for developers who need a simple, efficient way to explore and manage their MySQL/MariaDB and PostgreSQL databases. Built with performance and security in mind, it's the perfect companion for database exploration without the bloat.
 
-<img width="1918" height="872" alt="onezDBViewer1 - Copy" src="https://github.com/user-attachments/assets/1a7cda96-82b2-437b-9c3f-a047105e95bd" />
+<img width="1918" height="872" alt="onezDBViewer1 - Copy" src="https://github.com/user-attachments/assets/1a7cda96-82b2-437b-9c3f-a047105e95bd" />  
 
 Refer demo videos here - https://github.com/onezloop/onezdbviewer/blob/main/DEMO.md
 
