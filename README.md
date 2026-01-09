@@ -1,12 +1,10 @@
 <img width="56" height="56" alt="favicon" src="https://github.com/user-attachments/assets/e0c49c29-09f5-42cf-b69e-21f6a9508da1" />
 
-# onezDBViewer BETA - User Guide
+# onezDBViewer BETA
 
 **OnezDBViewer** is a lightweight, privacy-focused database viewer designed for developers who need a simple, efficient way to explore and manage their MySQL/MariaDB and PostgreSQL databases. Built with performance and security in mind, it's the perfect companion for database exploration without the bloat.
 
-
 https://github.com/user-attachments/assets/d3a13712-8682-46ba-853f-08a19131d332
-
 
 Refer demo videos here - https://github.com/onezloop/onezdbviewer/blob/main/DEMO.md
 
@@ -37,6 +35,15 @@ We didn't just vibe-code it. We followed a systematic, AI-driven development app
 - https://openspec.dev/
 - https://github.com/github/spec-kit
 - https://github.com/bmad-code-org/BMAD-METHOD
+
+## Want to support Us?
+
+- Give us a star on GitHub: https://github.com/onezloop/onezdbviewer
+- Provide feedback, report issues and suggest features:
+  - Contact Us: https://onezloop.com/#contact
+  - GitHub Issues: https://github.com/onezloop/onezdbviewer/issues
+
+We'd love to hear from you!
 
 ---
 
