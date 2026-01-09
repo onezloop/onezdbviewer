@@ -41,7 +41,7 @@ We didn't just vibe-code it. We followed a systematic, AI-driven development app
 - Give us a star on GitHub: https://github.com/onezloop/onezdbviewer
 - Provide feedback, report issues and suggest features:
   - Contact Us: https://onezloop.com/#contact
-  - GitHub Issues: https://github.com/onezloop/onezdbviewer/issues
+  - GitHub Issues: https://github.com/onezloop/onezdbviewer/issues/new
 
 We'd love to hear from you!
 
