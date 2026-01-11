@@ -1,0 +1,167 @@
+ONEZDBVIEWER END USER LICENSE AGREEMENT (EULA)
+
+Copyright (c) 2025 onezloop team. All rights reserved.
+
+IMPORTANT: PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING ONEZDBVIEWER.
+
+This End User License Agreement ("Agreement") is a legal agreement between you (either an
+individual or a single entity) and onezloop team ("Licensor") for the onezDBViewer software
+application ("Software").
+
+By downloading, installing, or using the Software, you agree to be bound by the terms of
+this Agreement. If you do not agree to the terms of this Agreement, do not install or use
+the Software.
+
+1. GRANT OF LICENSE
+
+Subject to the terms and conditions of this Agreement, Licensor grants you a limited,
+non-exclusive, non-transferable, revocable license to use the Software free of charge for
+personal, educational, and commercial purposes.
+
+2. DESCRIPTION OF SOFTWARE
+
+onezDBViewer is a database viewer and management application that allows users to connect
+to databases and view, query, and modify data. The Software is provided as a free application
+but is NOT open source software.
+
+3. RESTRICTIONS
+
+You may NOT:
+
+a) Reverse engineer, decompile, disassemble, or attempt to derive the source code of the
+Software or any part thereof, except to the extent that such activity is expressly
+permitted by applicable law notwithstanding this limitation;
+
+b) Modify, adapt, translate, or create derivative works based upon the Software;
+
+c) Redistribute, sell, rent, lease, sublicense, or otherwise transfer the Software to any
+third party;
+
+d) Remove, alter, or obscure any proprietary notices (including copyright and trademark
+notices) on the Software;
+
+e) Use the Software for any illegal or unauthorized purpose;
+
+f) Resell, commercialize, or charge fees for access to the Software;
+
+g) Distribute the Software through any channels other than official onezloop distribution
+channels or authorized platforms where onezloop has published the Software.
+
+4. DISTRIBUTION
+
+The Software may only be distributed through official onezloop channels or platforms where
+onezloop has officially published the Software. Any unauthorized distribution is strictly
+prohibited and constitutes a material breach of this Agreement.
+
+5. INTELLECTUAL PROPERTY RIGHTS
+
+The Software is licensed, not sold. Licensor retains all right, title, and interest in and
+to the Software, including all intellectual property rights therein. This Agreement does not
+grant you any rights to trademarks, service marks, or trade names of Licensor.
+
+6. USER DATA AND CONTENT
+
+a) You retain all rights, title, and interest in and to any data you create, modify, access,
+or manage using the Software ("User Data");
+
+b) Licensor does not claim any ownership rights in your User Data;
+
+c) You are solely responsible for the accuracy, quality, integrity, legality, reliability,
+and appropriateness of your User Data;
+
+d) You acknowledge that any modification, deletion, or corruption of data performed through
+the Software is entirely your responsibility;
+
+e) Licensor is not responsible for any loss, corruption, or unauthorized access to your
+User Data.
+
+7. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT
+PERMITTED BY APPLICABLE LAW, LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED,
+OR STATUTORY, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+LICENSOR DOES NOT WARRANT THAT:
+a) The Software will meet your requirements;
+b) The Software will be uninterrupted, timely, secure, or error-free;
+c) The results obtained from the use of the Software will be accurate or reliable;
+d) Any errors in the Software will be corrected.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR BE LIABLE
+FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY DAMAGES
+WHATSOEVER (INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION,
+LOSS OF INFORMATION, DATA LOSS, DATA CORRUPTION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT
+OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+YOU ACKNOWLEDGE THAT YOU USE THE SOFTWARE AT YOUR OWN RISK AND THAT YOU ARE SOLELY
+RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM, DATABASE, OR LOSS OF DATA THAT RESULTS
+FROM THE USE OF THE SOFTWARE.
+
+9. BUG REPORTS AND SUPPORT
+
+The Software may contain bugs or errors. If you encounter any issues:
+
+a) Please report bugs or issues through the official issue tracker at:
+https://github.com/onezloop/onezdbviewer/issues
+
+b) Licensor will make reasonable efforts to address reported bugs but makes no guarantee
+regarding response time, bug fixes, or ongoing support;
+
+c) Bug reports and support are provided on an "as available" basis without any warranty or
+guaranteed service level.
+
+10. UPDATES AND MODIFICATIONS
+
+Licensor reserves the right to modify, update, or discontinue the Software at any time
+without notice. Licensor may release updates, upgrades, or new versions of the Software,
+which may be subject to different or additional license terms.
+
+11. TERMINATION
+
+a) This license is effective until terminated;
+
+b) This license will terminate automatically without notice if you fail to comply with any
+provision of this Agreement;
+
+c) Upon termination, you must immediately cease all use of the Software and destroy all
+copies of the Software in your possession or control;
+
+d) Licensor reserves the right to terminate this license at any time for any reason by
+providing notice to users through official channels;
+
+e) In the event of termination due to license modifications, you may continue to use the
+version of the Software obtained under the previous license terms, but you will not be
+entitled to updates or new versions;
+
+f) Sections 5, 6, 7, 8, 11, 12, and 13 shall survive any termination of this Agreement.
+
+12. GOVERNING LAW AND JURISDICTION
+
+This Agreement shall be governed by and construed in accordance with the laws of India,
+without regard to its conflict of law provisions. Any disputes arising under or in connection
+with this Agreement shall be subject to the exclusive jurisdiction of the courts located in
+India.
+
+13. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between you and Licensor regarding the
+Software and supersedes all prior or contemporaneous understandings and agreements, whether
+written or oral, regarding the Software.
+
+14. SEVERABILITY
+
+If any provision of this Agreement is found to be unenforceable or invalid, that provision
+shall be limited or eliminated to the minimum extent necessary so that this Agreement shall
+otherwise remain in full force and effect.
+
+15. CONTACT INFORMATION
+
+For questions about this Agreement or the Software, please contact:
+onezloop team: https://onezloop.com/#contact
+
+BY INSTALLING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT,
+UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
