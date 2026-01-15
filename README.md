@@ -2,7 +2,7 @@
 
 # onezDBViewer BETA
 
-**OnezDBViewer** is a lightweight, privacy-focused database viewer designed for developers who need a simple, efficient way to explore and manage their MySQL/MariaDB and PostgreSQL databases. Built with performance and security in mind, it's the perfect companion for database exploration without the bloat.
+**OnezDBViewer** is a lightweight, privacy-focused database viewer designed for those who need a simple, efficient way to explore and manage their MySQL/MariaDB and PostgreSQL databases. Built with performance and security in mind, it's the perfect companion for database exploration without the bloat.
 
 https://github.com/user-attachments/assets/d3a13712-8682-46ba-853f-08a19131d332
 
@@ -24,13 +24,13 @@ Almost all developers use Docker, so we provided onezdbviewer as a Docker image 
 
 onezdbviewer is not a huge SQL script writing tool. We didn't build it for that. While you can still write queries, format them, and use them, we didn't design it for very heavy query authoring workflows.
 
-In today's world, AI can write most SQL, and we as developers can review and correct it as needed. onezdbviewer, at least as of today, is not an open-source project. We are still actively focusing on adding features and refinements that simplify database querying and viewing even more, and we're not yet ready to open source it.
+In today's world, AI can write most SQL, and we as developers can review and correct it as needed. We do have plans to support customized AI integration for query editing. onezdbviewer, at least as of today, is not an open-source project. We are still actively focusing on adding features and refinements that simplify database querying and viewing even more, and we're not yet ready to open source it.
 
 ## How did we build it?
 
 We leveraged AI extensively to build onezdbviewer. We relied on AI to explore and understand many database-level details and edge cases we needed to support.
 
-We didn't just vibe-code it. We followed a systematic, AI-driven development approach. If you want to know more about AI-driven development, you can explore the following projects:
+We didn't just vibe-code it. We followed a systematic, AI-driven development approach. We review, do manual development when the AI fails. If you want to know more about AI-driven development, you can explore the following projects:
 
 - https://openspec.dev/
 - https://github.com/github/spec-kit
@@ -40,10 +40,13 @@ We didn't just vibe-code it. We followed a systematic, AI-driven development app
 
 - Give us a star on GitHub: https://github.com/onezloop/onezdbviewer
 - Provide feedback, report issues and suggest features:
+
   - Contact Us: https://onezloop.com/#contact
   - GitHub Issues: https://github.com/onezloop/onezdbviewer/issues/new
 
-We'd love to hear from you!
+- Support Us by Donating
+
+<a href="https://www.buymeacoffee.com/onezloop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
 
