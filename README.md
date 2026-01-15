@@ -1,5 +1,6 @@
-
-<img width="56" height="56" alt="onezloop" src="https://github.com/user-attachments/assets/8bb56785-a4bd-47d9-bad4-3ff1878a147e" />
+<a href="https://onezloop.com" target="_blank">
+  <img width="56" height="56" alt="onezloop" src="https://github.com/user-attachments/assets/8bb56785-a4bd-47d9-bad4-3ff1878a147e" />
+</a>
 
 # onezDBViewer BETA
 
@@ -47,7 +48,9 @@ We didn't just vibe-code it. We followed a systematic, AI-driven development app
 
 - Support Us by Donating
 
-<a href="https://www.buymeacoffee.com/onezloop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/onezloop" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
 
 ---
 
