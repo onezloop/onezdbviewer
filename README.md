@@ -1,4 +1,5 @@
-<img width="56" height="56" alt="favicon" src="https://github.com/user-attachments/assets/e0c49c29-09f5-42cf-b69e-21f6a9508da1" />
+
+<img width="56" height="56" alt="onezloop" src="https://github.com/user-attachments/assets/8bb56785-a4bd-47d9-bad4-3ff1878a147e" />
 
 # onezDBViewer BETA
 
