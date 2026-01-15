@@ -49,7 +49,7 @@ We didn't just vibe-code it. We followed a systematic, AI-driven development app
 - Support Us by Donating
 
 <a href="https://www.buymeacoffee.com/onezloop" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
 ---
