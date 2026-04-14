@@ -8,7 +8,7 @@
 
 https://github.com/user-attachments/assets/d3a13712-8682-46ba-853f-08a19131d332
 
-Refer demo videos here - https://github.com/onezloop/onezdbviewer/blob/main/DEMO.md
+Refer demo videos here - https://github.com/onezloop/onezdbviewer/blob/main/docs/DEMO.md
 
 <a href="https://www.producthunt.com/products/onezdbviewer?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-onezdbviewer" target="_blank" rel="noopener noreferrer">
   <img alt="onezdbviewer - A simple, modern &amp; fast database viewer that runs in docker | Product Hunt" width="200" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1063299&amp;theme=neutral&amp;t=1768480055463">
