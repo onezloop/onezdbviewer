@@ -46,15 +46,16 @@ We didn't just vibe-code it. We followed a systematic, AI-driven development app
 
 - Give us a star on GitHub: https://github.com/onezloop/onezdbviewer
 - Provide feedback, report issues and suggest features:
-
   - Contact Us: https://onezloop.com/#contact
   - GitHub Issues: https://github.com/onezloop/onezdbviewer/issues/new
 
 - Support Us by Donating
 
-<a href="https://www.buymeacoffee.com/onezloop" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+<br />
+<a href="https://onezloop.com/onezdbviewer/#donate" target="_blank">
+  <img src="https://raw.githubusercontent.com/onezloop/assets/refs/heads/main/DonateButton.png" height="70" width="230" alt="Support onezDBViewer" />
 </a>
+<br />
 
 ---
 
